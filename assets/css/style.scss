@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-body {
-  background: red;
+header .view, footer {
+  display: none;
 }
